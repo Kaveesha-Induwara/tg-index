@@ -15,6 +15,10 @@
 
 Hosted demo site: https://tg-index-demo.herokuapp.com
 
+## Deploy To Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/kaviya-admin/tg-index)
+
 ## Deploy Guide
 
 * **Clone to local machine.**
